@@ -7,7 +7,6 @@ I believe in **"lifting while climbing,"** building great apps. I focus on bridg
 
 - 🚀 Currently focusing on: **SwiftUI, Mobile Architecture, and LLM Integration.**
 - 💡 Passionate about: AI innovation in the Apple Ecosystem.
-- 🌍 Languages: Fluent in **English** & **Russian**.
 
 ---
 
