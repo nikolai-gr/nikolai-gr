@@ -25,4 +25,4 @@ I believe in **"lifting while climbing,"** building great products while helping
 
 Always excited to connect with fellow tech enthusiasts and developers! Feel free to DM me.
 
-*"Always curious about the future of mobile innovation! 🦄"*
+* Always excited to connect with fellow tech enthusiasts and developers who are passionate about the future of iOS development and mobile innovation! 🦄*
