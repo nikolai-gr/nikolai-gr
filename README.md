@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Nikolai! 👋 👨‍💻
 
-<!--
-**nikolai-gr/nikolai-gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hardworking & Ambition-driven | Aspiring AI-Enhanced iOS Developer
 
-Here are some ideas to get you started:
+I believe in **"lifting while climbing"** — building great products while helping the community grow. I specialize in bridging the gap between robust backend logic and elegant user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently focusing on: **SwiftUI, Mobile Architecture, and LLM Integration.**
+- 💡 Passionate about: AI innovation in the Apple Ecosystem.
+- 🌍 Languages: Fluent in **English** & **Russian**.
+
+---
+
+### 🛠 Tech Stack & Tools
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/nikolai-gr/)
+
+*"Always curious about the future of mobile innovation! 🦄"*
