@@ -20,7 +20,7 @@ I believe in **"lifting while climbing,"** building great products while helping
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 ---
 
-### 📫 Contact with me:
+### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/nikolai-gr/)
 
 *Always excited to connect with fellow tech enthusiasts and developers who are passionate about the future of iOS development and mobile innovation! 🦄*
