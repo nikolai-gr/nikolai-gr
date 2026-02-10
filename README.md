@@ -3,7 +3,7 @@
 ### Hardworking & Ambition-driven | Aspiring AI-Enhanced iOS Developer
 I'm an iOS developer with a Computer Information Systems A.S.S. degree from New York City College of Technology, CUNY.
 
-I believe in **"lifting while climbing,"** building great products while helping the community grow. I specialize in bridging the gap between robust backend logic and elegant user interfaces.
+I believe in **"lifting while climbing,"** building great products. I focus on bridging the gap between backend logic and elegant user interfaces, always staying curious about the latest innovations in LLMs and mobile architecture.
 
 - 🚀 Currently focusing on: **SwiftUI, Mobile Architecture, and LLM Integration.**
 - 💡 Passionate about: AI innovation in the Apple Ecosystem.
