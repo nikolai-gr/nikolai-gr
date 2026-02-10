@@ -23,4 +23,5 @@ I believe in **"lifting while climbing,"** building great products while helping
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/nikolai-gr/)
 Always excited to connect with fellow tech enthusiasts and developers! Feel free to DM me.
+
 *"Always curious about the future of mobile innovation! 🦄"*
